@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "844189259089",
+    "firebase_url": "https://suksesdbfirebase.firebaseio.com",
+    "project_id": "suksesdbfirebase",
+    "storage_bucket": "suksesdbfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844189259089:android:dde17775e00d684ba0af70",
+        "android_client_info": {
+          "package_name": "com.phdb.suksesdbfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844189259089-laifltegd0d55t0kle06faknnle3m2qg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.phdb.suksesdbfirebase",
+            "certificate_hash": "a75e8db860cdcaf7700156264925e9af1054efd5"
+          }
+        },
+        {
+          "client_id": "844189259089-rfl1fk0gu7tdqp5t3nemtqekok2lqcr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADZHoHXp8J87IiHFvZimqm7d2-PYLxq1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844189259089-rfl1fk0gu7tdqp5t3nemtqekok2lqcr5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
